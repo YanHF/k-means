@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k-means_LearningAndUsing", "k-means_LearningAndUsing\k-means_LearningAndUsing.csproj", "{1C7C3EE5-ECEA-4BA5-BB0C-A688E3866386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7C3EE5-ECEA-4BA5-BB0C-A688E3866386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7C3EE5-ECEA-4BA5-BB0C-A688E3866386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7C3EE5-ECEA-4BA5-BB0C-A688E3866386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7C3EE5-ECEA-4BA5-BB0C-A688E3866386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B77157D-7490-40C9-B972-3C790C8CD783}
+	EndGlobalSection
+EndGlobal
