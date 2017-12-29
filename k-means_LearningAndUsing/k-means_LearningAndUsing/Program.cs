@@ -1,6 +1,5 @@
 ﻿using DataStructure;
 using System;
-using System.Collections.Generic;
 
 namespace ClusterNumeric
 {

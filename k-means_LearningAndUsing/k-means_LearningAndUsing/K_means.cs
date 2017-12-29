@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DataStructure
+﻿namespace DataStructure
 {
+    using System;
+    using System.Collections.Generic;
     /// <summary>
     /// author yanhf
     /// K-Means
